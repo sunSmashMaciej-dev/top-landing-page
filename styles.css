@@ -51,10 +51,12 @@ p {
     font-weight: 900;
 }
 button {
-    border-radius: 25px;
+    border-radius: 8px;
     background: #3882f6;
     color: white;
     font-weight: 700;
+    padding: 4px 16px;
+    align-self: flex-start;
 }
 
 img {
