@@ -40,6 +40,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 100px 350px;
 }
 
 .hero-text-container{
