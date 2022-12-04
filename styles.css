@@ -22,8 +22,12 @@ h2 {
 
 ul {
     display: flex;
-    color: #e5e7eb;
     list-style: none;
-    font-size: 18px;
     padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
 }
