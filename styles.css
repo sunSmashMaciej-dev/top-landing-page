@@ -6,3 +6,24 @@
 body {
     font-family: Roboto, Tahoma, Helvetica, sans-serif;
 }
+
+.hero {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.header {
+    display: flex;
+}
+
+h2 {
+    flex: 2;
+}
+
+ul {
+    display: flex;
+    color: #e5e7eb;
+    list-style: none;
+    font-size: 18px;
+    padding: 0;
+}
