@@ -1,7 +1,7 @@
-/* * {
+* {
     border: 2px solid red;
     margin: 2px;
-}*/
+}
 
 body {
     font-family: Roboto, Tahoma, Helvetica, sans-serif;
@@ -49,6 +49,12 @@ p {
 .hero-text {
     font-size: 48px;
     font-weight: 900;
+}
+button {
+    border-radius: 25px;
+    background: #3882f6;
+    color: white;
+    font-weight: 700;
 }
 
 img {
