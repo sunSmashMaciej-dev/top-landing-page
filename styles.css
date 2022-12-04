@@ -10,9 +10,12 @@ body {
 .hero {
     background-color: #1f2937;
     color: #f9faf8;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .header {
+    flex: 1;
     display: flex;
 }
 
