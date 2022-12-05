@@ -1,7 +1,7 @@
-* {
+/* * {
     border: 2px solid red;
     margin: 2px;
-}
+}*/
 
 body {
     font-family: Roboto, Tahoma, Helvetica, sans-serif;
@@ -28,7 +28,7 @@ ul {
     display: flex;
     list-style: none;
     padding: 0;
-    gap: 8px;
+    gap: 18px;
 }
 
 a,
