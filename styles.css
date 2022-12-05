@@ -46,7 +46,8 @@ p {
 .hero-text-container{
     display: flex;
     flex-direction: column;
-    height: 300px;
+    justify-content: center;
+    height: 350px;
 }
 .hero-text {
     font-size: 48px;
@@ -59,6 +60,12 @@ button {
     font-weight: 700;
     padding: 4px 16px;
     align-self: flex-start;
+}
+
+.img-container{
+    display: flex;
+    align-items: center;
+    height: 350px;
 }
 
 img {
