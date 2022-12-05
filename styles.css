@@ -1,7 +1,7 @@
-* {
+/* * {
     border: 2px solid red;
     margin: 2px;
-}
+}*/
 
 body {
     font-family: Roboto, Tahoma, Helvetica, sans-serif;
@@ -98,8 +98,8 @@ img {
 }
 
 .sm-img {
-    width: 100px;
-    height: 110px;
+    width: 150px;
+    height: 160px;
     border: 3px solid #3882f6;
-    border-radius: 8px;
+    border-radius: 16px;
 }
