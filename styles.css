@@ -74,3 +74,16 @@ img {
     height: 300px;
     width: auto;
 }
+
+/*Info section of page*/
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-header {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
