@@ -86,4 +86,20 @@ img {
     font-size: 36px;
     font-weight: 900;
     text-align: center;
+    padding: 16px;
+}
+
+.sm-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    gap: 30px;
+}
+
+.sm-img {
+    width: 100px;
+    height: 110px;
+    border: 3px solid #3882f6;
+    border-radius: 8px;
 }
