@@ -18,7 +18,7 @@ body {
 .header {
     flex: 1;
     display: flex;
-    padding: 16px 100px;
+    padding: 8px 100px;
 }
 
 h2 {
@@ -43,7 +43,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 100px 350px;
+    padding: 75px 350px;
     gap: 50px;
 }
 
@@ -154,14 +154,14 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 50px;
+    padding: 40px 50px;
 }
 
 .sign-up-container {
     background-color: #3882f6;
     border-radius: 12px;
     display: flex;
-    padding: 20px 50px;
+    padding: 8px 50px;
     gap: 16px;
 }
 
