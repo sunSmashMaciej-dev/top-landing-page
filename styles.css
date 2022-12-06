@@ -118,3 +118,10 @@ img {
     text-align: center;
     margin: 8px 0;
 }
+
+/*Quote section of page*/
+.quote {
+    background-color: #e5e7eb;
+    padding: 50px;
+}
+
