@@ -59,6 +59,7 @@ p {
 }
 button {
     border-radius: 8px;
+    border: 2px solid #f9faf8;
     background: #3882f6;
     color: white;
     font-weight: 700;
@@ -176,6 +177,7 @@ img {
 
 #sign-up-button {
     align-self: center;
+    border: 2px solid #f9faf8;
 }
 
 /*Footer section*/
