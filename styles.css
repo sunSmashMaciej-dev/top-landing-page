@@ -160,6 +160,7 @@ img {
     border-radius: 12px;
     display: flex;
     padding: 20px 50px;
+    gap: 16px;
 }
 
 #sign-up-head {
