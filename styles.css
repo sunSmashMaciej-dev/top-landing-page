@@ -82,6 +82,7 @@ img {
 .info {
     display: flex;
     flex-direction: column;
+    padding: 25px 300px 50px;
 }
 
 .info-header {
@@ -125,7 +126,7 @@ img {
 /*Quote section of page*/
 .quote {
     background-color: #e5e7eb;
-    padding: 50px;
+    padding: 100px;
 }
 
 .quote-container {
@@ -155,7 +156,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px 50px;
+    padding: 75px 50px;
 }
 
 .sign-up-container {
