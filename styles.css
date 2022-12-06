@@ -146,3 +146,31 @@ img {
     width: 500px;
     margin: 0 auto;   
 }
+
+/*Sign up section*/
+.sign-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 50px;
+}
+
+.sign-up-container {
+    background-color: #3882f6;
+    border-radius: 12px;
+    display: flex;
+    padding: 20px 50px;
+}
+
+#sign-up-head {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#sign-up-text {
+    font-size: 16px;
+}
+
+#sign-up-button {
+    align-self: center;
+}
