@@ -125,3 +125,15 @@ img {
     padding: 50px;
 }
 
+.quote-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
+    width: 500px;
+    margin: 0 auto;
+}
