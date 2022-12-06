@@ -43,6 +43,7 @@ p {
     justify-content: center;
     align-items: center;
     padding: 100px 350px;
+    gap: 50px;
 }
 
 .hero-text-container{
