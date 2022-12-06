@@ -1,10 +1,11 @@
-* {
+/* * {
     border: 2px solid red;
     margin: 2px;
-}
+}*/
 
 body {
     font-family: Roboto, Tahoma, Helvetica, sans-serif;
+    margin: 0;
 }
 /*Top section of page*/
 .hero {
